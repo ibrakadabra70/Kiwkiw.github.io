@@ -1,0 +1,26 @@
+body
+{
+    background:url(https://i.gifer.com/24Yv.gif);
+    background-repeat: no-repeat;
+    background-color: pink;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.question
+{
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 50vh; /* Full height of the viewport */
+    
+}
+.container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 50vh; /* Full height of the viewport */
+    
+}
